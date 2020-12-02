@@ -4,28 +4,25 @@
 <img src="/img/header.png" width=400>
 </h4>
 
+CATzombies is a Python 3 app for SECURITY TESTING PURPOSES ONLY!
 
-CATzombies green is a Python 3 app for SECURITY TESTING PURPOSES ONLY! 
-
-CATzombies is an HTTP DoS Test Tool. 
+CATzombies is an HTTP DoS Test Tool.
 
 Attack Vector exploited: HTTP Keep Alive + NoCache
 
 
 ## How To Use 
 
+     USAGE: ./goldeneye.py <url> [OPTIONS]
 
-   USAGE: ./CATzombies.py <url> [OPTIONS]
-
-   OPTIONS:
-           Flag                 Description                                    Default 
-       -u, --useragents   File with user-agents to use                     (default: randomly generated) 
-       -w, --workers      Number of concurrent workers                     (default: 50) 
-       -s, --sockets      Number of concurrent sockets                     (default: 30)
-       -m, --method       HTTP Method to use 'get' or 'post'  or 'random'  (default: get)  
-       -d, --debug        Enable Debug Mode [more verbose output]          (default: False)  
-       -n, --nosslcheck   Do not verify SSL Certificate                    (default: True) 
-       -h, --help         Shows this help
+     OPTIONS:
+        Flag           Description                     Default
+        -u, --useragents   File with user-agents to use                     (default: randomly generated)
+        -w, --workers      Number of concurrent workers                     (default: 50)
+        -s, --sockets      Number of concurrent sockets                     (default: 30)
+        -m, --method       HTTP Method to use 'get' or 'post'  or 'random'  (default: get)
+        -d, --debug        Enable Debug Mode [more verbose output]          (default: False)
+        -n, --nosslcheck   Do not verify SSL Certificate                    (default: True)
 
 
 ## Utilities
