@@ -13,7 +13,7 @@ Attack Vector exploited: HTTP Keep Alive + NoCache
 
 ## How To Use 
 
-     USAGE: ./goldeneye.py <url> [OPTIONS]
+     USAGE: ./CATzombies.py <url> [OPTIONS]
 
      OPTIONS:
         Flag           Description                     Default
