@@ -1,7 +1,8 @@
 # CATzombies
 
-
-<img src="/IMG/header.png" width=600>
+<h4 align="center">
+<img src="/img/header.png" width=400>
+</h4>
 
 
 CATzombies green is a Python 3 app for SECURITY TESTING PURPOSES ONLY! 
@@ -48,9 +49,9 @@ THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL
 
 ## ScreenShot for this Tools
 
-
-<img src="/IMG/mid.png" width=600>
-
+<h4 align="center">
+<img src="/img/mid.png" width=600>
+</h4>
 
 
 ## FOR SUPPORT
